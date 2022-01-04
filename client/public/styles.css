@@ -1,0 +1,37 @@
+#root {
+    background-color: #44b8a8;
+  }
+
+ header{
+    background-color: #E4F9F5;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+
+header h1{
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+}
+
+
+footer{
+    background-color: #40514E;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+
+
+.tab{
+    background: #30E3CA;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    opacity: 1;
+} 
